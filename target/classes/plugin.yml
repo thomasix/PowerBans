@@ -1,7 +1,0 @@
-name: PowerBans
-version: 1.0-SNAPSHOT
-authors: [Thomasix]
-main: nl.thomasix.powerbans.main.PowerBans
-website: https://github.com/thomasix
-description: A ban plugin with powerfull ban tools. Including temp bans, IP bans, blacklist bans, gui etc..
-prefix: PowerBans
