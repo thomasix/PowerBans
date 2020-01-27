@@ -1,0 +1,13 @@
+storage:
+
+  #Select which type of storage you want to use, MySQL (MYSQL) or Yaml Files (YAML)
+  #For now exporting to different type of storage is NOT possible! I may write a tool in the future for it. Not sure!
+  storage-type: YAML
+
+  #If you choose for MYSQL, fill in your details below!
+  mysql:
+    host: localhost
+    port: 3306
+    dbName: dbName
+    username: username
+    password: password

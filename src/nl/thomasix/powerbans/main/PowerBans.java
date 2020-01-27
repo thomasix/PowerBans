@@ -17,6 +17,8 @@ public class PowerBans extends JavaPlugin {
         this.initializer.registerCommands();
         this.initializer.registerListeners();
 
+        this.saveDefaultConfig();
+
         logger.sendInfo("Status", "PowerBans is started up");
     }
 
