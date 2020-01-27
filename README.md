@@ -2,10 +2,11 @@
 Nr. 1 Spigot plugin for banning players
 <br><br><br>
 
-<h2>Index</h2>
-- [Commands](##Commands)<br>
-- [Permissions](##Permissions)<br>
-- [etc](##etc)<br>
+## Index
+- [Commands](##Commands)
+- [Permissions](##Permissions)
+- [etc](##etc)
+<br><br>
 
 ## Commands
 <br><br>
