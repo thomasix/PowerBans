@@ -1,0 +1,7 @@
+name: ${name}
+version: ${version}
+authors: ${authors}
+main: ${main}
+website: ${organization.url}
+description: ${description}
+prefix: PowerBans
