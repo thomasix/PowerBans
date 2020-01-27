@@ -1,14 +1,14 @@
-#PowerBans
+<h1>PowerBans</h1>
 Nr. 1 Spigot plugin for banning players
 <br><br><br>
 
-##Index
+<h2>Index<
 - Commands
 - Permissions
 - etc<br><br>
 
-##Commands
+<h2>Commands
 <br><br>
 
-##Permissions
+<h2>Permissions
 <br><br>
